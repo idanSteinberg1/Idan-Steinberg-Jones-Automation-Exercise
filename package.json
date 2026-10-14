@@ -1,0 +1,13 @@
+{
+  "name": "jones-automation-exercise",
+  "version": "1.0.0",
+  "description": "Playwright automation for the landing page lead form",
+  "private": true,
+  "scripts": {
+    "start": "node automation.js",
+    "start:headed": "node automation.js --headed"
+  },
+  "dependencies": {
+    "playwright": "^1.64.0"
+  }
+}
